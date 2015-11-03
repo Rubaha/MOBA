@@ -1,0 +1,6 @@
+Idle
+Guard
+Chase
+Attack
+Patroll
+Death
